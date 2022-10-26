@@ -4,7 +4,7 @@
 - Email : kchs94@gmail.com
 - Blog : [기술 블로그](https://kchs94.tistory.com/)
 
-## Stack
+# Stack
 ### BackEnd
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
